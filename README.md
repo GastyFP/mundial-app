@@ -4,7 +4,10 @@ This App was created as a the final proyect for [SoyHenry.com](https://www.soyhe
 ![world-cup-2022-banner-template-design-34083bda9def6a13f1b2c76966a78240_screen](https://user-images.githubusercontent.com/61922413/195095751-e89b0c63-0247-4435-832a-e1c4a51050de.jpg)
 
 ## Deployment
-You can check out our proyect [Here!](https://www.mundi-app.tk)
+You can check our proyect [Here!](https://www.mundi-app.tk)
+
+![mundiapp landing](https://user-images.githubusercontent.com/61922413/195106544-7289a24a-d4ba-473a-94dc-a0f19008aeac.png)
+
 
 We used: 
 - [ ] Railway for the BackEnd
